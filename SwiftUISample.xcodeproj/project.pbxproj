@@ -125,7 +125,7 @@
 		0C6E6B6B24B0098100379D4F /* SwiftUISample */ = {
 			isa = PBXGroup;
 			children = (
-				0C6E6B8224B00EFD00379D4F /* Sample */,
+				0C6E6B8224B00EFD00379D4F /* Chapter1 */,
 				0C6E6B6C24B0098100379D4F /* AppDelegate.swift */,
 				0C6E6B6E24B0098100379D4F /* SceneDelegate.swift */,
 				0C6E6B7224B0098200379D4F /* Assets.xcassets */,
@@ -144,7 +144,7 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		0C6E6B8224B00EFD00379D4F /* Sample */ = {
+		0C6E6B8224B00EFD00379D4F /* Chapter1 */ = {
 			isa = PBXGroup;
 			children = (
 				0C013F9424B014920005385E /* Resources */,
@@ -156,7 +156,7 @@
 				0C013FB624B016720005385E /* LandmarkRow.swift */,
 				0C013FB824B017D30005385E /* LandmarkList.swift */,
 			);
-			path = Sample;
+			path = Chapter1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
