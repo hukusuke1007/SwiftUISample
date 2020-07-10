@@ -5,6 +5,7 @@
 //  Created by 中川祥平 on 2020/07/04.
 //  Copyright © 2020 Shohei Nakagawa. All rights reserved.
 //
+
 import UIKit
 import SwiftUI
 import CoreLocation
